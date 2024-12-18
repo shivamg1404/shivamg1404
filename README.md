@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SHIVAM!!</h1>
 <h3 align="center">learner, engineer, developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamg1404&label=Profile%20views&color=0e75b6&style=flat" alt="shivamg1404" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamg1404" alt="shivamg1404" /></a> </p>
 
